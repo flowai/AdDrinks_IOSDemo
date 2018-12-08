@@ -7,7 +7,25 @@
 		<key>AdDrinks.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>34</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3A35DC392176AD7000B5BE19</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A35DC512176AD7200B5BE19</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A35DC5C2176AD7200B5BE19</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

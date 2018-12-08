@@ -7,15 +7,93 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A01BD4F2176B4CB00C8F718 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A01BD4E2176B4CB00C8F718 /* GoogleService-Info.plist */; };
+		3A01BD502176B4CB00C8F718 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A01BD4E2176B4CB00C8F718 /* GoogleService-Info.plist */; };
+		3A01BD512176B4CB00C8F718 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A01BD4E2176B4CB00C8F718 /* GoogleService-Info.plist */; };
+		3A0E8DF12193B81B00EC581B /* LosgehtsButton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF02193B81A00EC581B /* LosgehtsButton.jpg */; };
+		3A0E8DF22193B81B00EC581B /* LosgehtsButton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF02193B81A00EC581B /* LosgehtsButton.jpg */; };
+		3A0E8DF32193B81B00EC581B /* LosgehtsButton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF02193B81A00EC581B /* LosgehtsButton.jpg */; };
+		3A0E8DFA2193C04800EC581B /* the-avengers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF52193C04300EC581B /* the-avengers.jpg */; };
+		3A0E8DFB2193C04800EC581B /* the-avengers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF52193C04300EC581B /* the-avengers.jpg */; };
+		3A0E8DFC2193C04800EC581B /* the-avengers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF52193C04300EC581B /* the-avengers.jpg */; };
+		3A0E8DFD2193C04800EC581B /* innogy.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF62193C04400EC581B /* innogy.png */; };
+		3A0E8DFE2193C04800EC581B /* innogy.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF62193C04400EC581B /* innogy.png */; };
+		3A0E8DFF2193C04800EC581B /* innogy.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF62193C04400EC581B /* innogy.png */; };
+		3A0E8E002193C04800EC581B /* Fortnite.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF72193C04500EC581B /* Fortnite.jpg */; };
+		3A0E8E012193C04800EC581B /* Fortnite.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF72193C04500EC581B /* Fortnite.jpg */; };
+		3A0E8E022193C04800EC581B /* Fortnite.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF72193C04500EC581B /* Fortnite.jpg */; };
+		3A0E8E032193C04800EC581B /* mercedes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF82193C04600EC581B /* mercedes.jpeg */; };
+		3A0E8E042193C04800EC581B /* mercedes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF82193C04600EC581B /* mercedes.jpeg */; };
+		3A0E8E052193C04800EC581B /* mercedes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF82193C04600EC581B /* mercedes.jpeg */; };
+		3A0E8E062193C04800EC581B /* playersunknownsbattleground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF92193C04800EC581B /* playersunknownsbattleground.jpg */; };
+		3A0E8E072193C04800EC581B /* playersunknownsbattleground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF92193C04800EC581B /* playersunknownsbattleground.jpg */; };
+		3A0E8E082193C04800EC581B /* playersunknownsbattleground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8DF92193C04800EC581B /* playersunknownsbattleground.jpg */; };
+		3A0E8E0B2197AC7100EC581B /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8E0A2197AC7100EC581B /* Settings.bundle */; };
+		3A0E8E0C2197AC7100EC581B /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8E0A2197AC7100EC581B /* Settings.bundle */; };
+		3A0E8E0D2197AC7100EC581B /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 3A0E8E0A2197AC7100EC581B /* Settings.bundle */; };
+		3A0E8E10219B981D00EC581B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E0F219B981D00EC581B /* SettingsViewController.swift */; };
+		3A0E8E11219B981D00EC581B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E0F219B981D00EC581B /* SettingsViewController.swift */; };
+		3A0E8E12219B981D00EC581B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E0F219B981D00EC581B /* SettingsViewController.swift */; };
+		3A0E8E15219B9B2400EC581B /* ShopViewCustomTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E14219B9B2400EC581B /* ShopViewCustomTableCell.swift */; };
+		3A0E8E16219B9B2400EC581B /* ShopViewCustomTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E14219B9B2400EC581B /* ShopViewCustomTableCell.swift */; };
+		3A0E8E17219B9B2400EC581B /* ShopViewCustomTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E14219B9B2400EC581B /* ShopViewCustomTableCell.swift */; };
+		3A0E8E1A219B9B3D00EC581B /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E19219B9B3D00EC581B /* VideoViewController.swift */; };
+		3A0E8E1B219B9B3D00EC581B /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E19219B9B3D00EC581B /* VideoViewController.swift */; };
+		3A0E8E1C219B9B3D00EC581B /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E19219B9B3D00EC581B /* VideoViewController.swift */; };
+		3A0E8E1F219BB34C00EC581B /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E1D219BB34C00EC581B /* DataModel.xcdatamodeld */; };
+		3A0E8E20219BB34C00EC581B /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E1D219BB34C00EC581B /* DataModel.xcdatamodeld */; };
+		3A0E8E21219BB34C00EC581B /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3A0E8E1D219BB34C00EC581B /* DataModel.xcdatamodeld */; };
 		3A35DC3E2176AD7000B5BE19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC3D2176AD7000B5BE19 /* AppDelegate.swift */; };
-		3A35DC402176AD7000B5BE19 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC3F2176AD7000B5BE19 /* RootViewController.swift */; };
-		3A35DC422176AD7000B5BE19 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC412176AD7000B5BE19 /* DataViewController.swift */; };
+		3A35DC402176AD7000B5BE19 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC3F2176AD7000B5BE19 /* LoginViewController.swift */; };
+		3A35DC422176AD7000B5BE19 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC412176AD7000B5BE19 /* RootViewController.swift */; };
 		3A35DC442176AD7000B5BE19 /* ModelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC432176AD7000B5BE19 /* ModelController.swift */; };
 		3A35DC472176AD7000B5BE19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A35DC452176AD7000B5BE19 /* Main.storyboard */; };
 		3A35DC492176AD7100B5BE19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A35DC482176AD7100B5BE19 /* Assets.xcassets */; };
 		3A35DC4C2176AD7100B5BE19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A35DC4A2176AD7100B5BE19 /* LaunchScreen.storyboard */; };
 		3A35DC572176AD7200B5BE19 /* AdDrinksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC562176AD7200B5BE19 /* AdDrinksTests.swift */; };
 		3A35DC622176AD7200B5BE19 /* AdDrinksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A35DC612176AD7200B5BE19 /* AdDrinksUITests.swift */; };
+		3A9C603D21891CE70099CBCE /* AD_color_disney_fangzahn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C603C21891CE70099CBCE /* AD_color_disney_fangzahn.jpg */; };
+		3A9C603E21891CE70099CBCE /* AD_color_disney_fangzahn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C603C21891CE70099CBCE /* AD_color_disney_fangzahn.jpg */; };
+		3A9C603F21891CE70099CBCE /* AD_color_disney_fangzahn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C603C21891CE70099CBCE /* AD_color_disney_fangzahn.jpg */; };
+		3A9C604D21893E080099CBCE /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9C604C21893E080099CBCE /* SignUpViewController.swift */; };
+		3A9C604E21893E080099CBCE /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9C604C21893E080099CBCE /* SignUpViewController.swift */; };
+		3A9C604F21893E080099CBCE /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9C604C21893E080099CBCE /* SignUpViewController.swift */; };
+		3A9C6054218940290099CBCE /* 01_Welcome1_popup1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6051218940280099CBCE /* 01_Welcome1_popup1.jpg */; };
+		3A9C6055218940290099CBCE /* 01_Welcome1_popup1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6051218940280099CBCE /* 01_Welcome1_popup1.jpg */; };
+		3A9C6056218940290099CBCE /* 01_Welcome1_popup1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6051218940280099CBCE /* 01_Welcome1_popup1.jpg */; };
+		3A9C6057218940290099CBCE /* 03_Welcome2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6052218940280099CBCE /* 03_Welcome2.jpg */; };
+		3A9C6058218940290099CBCE /* 03_Welcome2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6052218940280099CBCE /* 03_Welcome2.jpg */; };
+		3A9C6059218940290099CBCE /* 03_Welcome2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6052218940280099CBCE /* 03_Welcome2.jpg */; };
+		3A9C605A218940290099CBCE /* 02_Welcome1_popup2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6053218940290099CBCE /* 02_Welcome1_popup2.jpg */; };
+		3A9C605B218940290099CBCE /* 02_Welcome1_popup2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6053218940290099CBCE /* 02_Welcome1_popup2.jpg */; };
+		3A9C605C218940290099CBCE /* 02_Welcome1_popup2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A9C6053218940290099CBCE /* 02_Welcome1_popup2.jpg */; };
+		3ABA3CAA2189EC05009B2FBA /* AD_color_disney_fangzahn_120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA32189EC04009B2FBA /* AD_color_disney_fangzahn_120.jpg */; };
+		3ABA3CAB2189EC05009B2FBA /* AD_color_disney_fangzahn_120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA32189EC04009B2FBA /* AD_color_disney_fangzahn_120.jpg */; };
+		3ABA3CAC2189EC05009B2FBA /* AD_color_disney_fangzahn_120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA32189EC04009B2FBA /* AD_color_disney_fangzahn_120.jpg */; };
+		3ABA3CAD2189EC05009B2FBA /* AD_color_disney_fangzahn_80.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA42189EC04009B2FBA /* AD_color_disney_fangzahn_80.jpg */; };
+		3ABA3CAE2189EC05009B2FBA /* AD_color_disney_fangzahn_80.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA42189EC04009B2FBA /* AD_color_disney_fangzahn_80.jpg */; };
+		3ABA3CAF2189EC05009B2FBA /* AD_color_disney_fangzahn_80.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA42189EC04009B2FBA /* AD_color_disney_fangzahn_80.jpg */; };
+		3ABA3CB02189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA52189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg */; };
+		3ABA3CB12189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA52189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg */; };
+		3ABA3CB22189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA52189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg */; };
+		3ABA3CB32189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA62189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg */; };
+		3ABA3CB42189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA62189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg */; };
+		3ABA3CB52189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA62189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg */; };
+		3ABA3CB62189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA72189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg */; };
+		3ABA3CB72189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA72189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg */; };
+		3ABA3CB82189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA72189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg */; };
+		3ABA3CB92189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA82189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg */; };
+		3ABA3CBA2189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA82189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg */; };
+		3ABA3CBB2189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA82189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg */; };
+		3ABA3CBC2189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA92189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg */; };
+		3ABA3CBD2189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA92189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg */; };
+		3ABA3CBE2189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3ABA3CA92189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg */; };
+		3ABA8FD321A63BFC005D41F7 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABA8FD221A63BFC005D41F7 /* StackView.swift */; };
+		3ABA8FD421A63BFC005D41F7 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABA8FD221A63BFC005D41F7 /* StackView.swift */; };
+		3ABA8FD521A63BFC005D41F7 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABA8FD221A63BFC005D41F7 /* StackView.swift */; };
+		76B84C42C5C7F561C90A0677 /* Pods_AdDrinksTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D0D6FFF8A2E5FC296C716D7 /* Pods_AdDrinksTests.framework */; };
+		DC45F91126F3B58DAC39447A /* Pods_AdDrinks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3589B6035CC29468C2D2F4A9 /* Pods_AdDrinks.framework */; };
+		DD4C240AC638EC45D23E99A8 /* Pods_AdDrinksUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69B84846F19B3AAA98815F0E /* Pods_AdDrinksUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,10 +114,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		263445B491779A603C625F1F /* Pods-AdDrinks.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AdDrinks.release.xcconfig"; path = "Pods/Target Support Files/Pods-AdDrinks/Pods-AdDrinks.release.xcconfig"; sourceTree = "<group>"; };
+		2A12167E07B15EB8DD10E68F /* Pods-AdDrinksUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AdDrinksUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AdDrinksUITests/Pods-AdDrinksUITests.release.xcconfig"; sourceTree = "<group>"; };
+		3589B6035CC29468C2D2F4A9 /* Pods_AdDrinks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AdDrinks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A01BD4E2176B4CB00C8F718 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		3A0E8DF02193B81A00EC581B /* LosgehtsButton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LosgehtsButton.jpg; sourceTree = "<group>"; };
+		3A0E8DF52193C04300EC581B /* the-avengers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the-avengers.jpg"; sourceTree = "<group>"; };
+		3A0E8DF62193C04400EC581B /* innogy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = innogy.png; sourceTree = "<group>"; };
+		3A0E8DF72193C04500EC581B /* Fortnite.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fortnite.jpg; sourceTree = "<group>"; };
+		3A0E8DF82193C04600EC581B /* mercedes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercedes.jpeg; sourceTree = "<group>"; };
+		3A0E8DF92193C04800EC581B /* playersunknownsbattleground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = playersunknownsbattleground.jpg; sourceTree = "<group>"; };
+		3A0E8E0A2197AC7100EC581B /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		3A0E8E0F219B981D00EC581B /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		3A0E8E14219B9B2400EC581B /* ShopViewCustomTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopViewCustomTableCell.swift; sourceTree = "<group>"; };
+		3A0E8E19219B9B3D00EC581B /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
+		3A0E8E1E219BB34C00EC581B /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
 		3A35DC3A2176AD7000B5BE19 /* AdDrinks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdDrinks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A35DC3D2176AD7000B5BE19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3A35DC3F2176AD7000B5BE19 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
-		3A35DC412176AD7000B5BE19 /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
+		3A35DC3F2176AD7000B5BE19 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		3A35DC412176AD7000B5BE19 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		3A35DC432176AD7000B5BE19 /* ModelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelController.swift; sourceTree = "<group>"; };
 		3A35DC462176AD7000B5BE19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3A35DC482176AD7100B5BE19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,6 +144,25 @@
 		3A35DC5D2176AD7200B5BE19 /* AdDrinksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdDrinksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A35DC612176AD7200B5BE19 /* AdDrinksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdDrinksUITests.swift; sourceTree = "<group>"; };
 		3A35DC632176AD7200B5BE19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A9C603C21891CE70099CBCE /* AD_color_disney_fangzahn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn.jpg; sourceTree = "<group>"; };
+		3A9C604C21893E080099CBCE /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		3A9C6051218940280099CBCE /* 01_Welcome1_popup1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 01_Welcome1_popup1.jpg; sourceTree = "<group>"; };
+		3A9C6052218940280099CBCE /* 03_Welcome2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 03_Welcome2.jpg; sourceTree = "<group>"; };
+		3A9C6053218940290099CBCE /* 02_Welcome1_popup2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02_Welcome1_popup2.jpg; sourceTree = "<group>"; };
+		3ABA3CA32189EC04009B2FBA /* AD_color_disney_fangzahn_120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn_120.jpg; sourceTree = "<group>"; };
+		3ABA3CA42189EC04009B2FBA /* AD_color_disney_fangzahn_80.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn_80.jpg; sourceTree = "<group>"; };
+		3ABA3CA52189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn_58.jpg; sourceTree = "<group>"; };
+		3ABA3CA62189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn_87.jpg; sourceTree = "<group>"; };
+		3ABA3CA72189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn_40.jpg; sourceTree = "<group>"; };
+		3ABA3CA82189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn_60.jpg; sourceTree = "<group>"; };
+		3ABA3CA92189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AD_color_disney_fangzahn_180.jpg; sourceTree = "<group>"; };
+		3ABA8FD221A63BFC005D41F7 /* StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
+		5D0D6FFF8A2E5FC296C716D7 /* Pods_AdDrinksTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AdDrinksTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		64ACFB59C611037D37432D29 /* Pods-AdDrinksUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AdDrinksUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AdDrinksUITests/Pods-AdDrinksUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		69B84846F19B3AAA98815F0E /* Pods_AdDrinksUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AdDrinksUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		859E65B5CEFDF2EDA38B85EB /* Pods-AdDrinks.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AdDrinks.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AdDrinks/Pods-AdDrinks.debug.xcconfig"; sourceTree = "<group>"; };
+		AC9B0596E3229A1F6E2CD5DF /* Pods-AdDrinksTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AdDrinksTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AdDrinksTests/Pods-AdDrinksTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CCD46F38E586CD9AE7889CC1 /* Pods-AdDrinksTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AdDrinksTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AdDrinksTests/Pods-AdDrinksTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +170,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC45F91126F3B58DAC39447A /* Pods_AdDrinks.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +178,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76B84C42C5C7F561C90A0677 /* Pods_AdDrinksTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +186,58 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD4C240AC638EC45D23E99A8 /* Pods_AdDrinksUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3A0E8DF42193C02B00EC581B /* AddImages */ = {
+			isa = PBXGroup;
+			children = (
+				3A0E8DF72193C04500EC581B /* Fortnite.jpg */,
+				3A0E8DF62193C04400EC581B /* innogy.png */,
+				3A0E8DF82193C04600EC581B /* mercedes.jpeg */,
+				3A0E8DF92193C04800EC581B /* playersunknownsbattleground.jpg */,
+				3A0E8DF52193C04300EC581B /* the-avengers.jpg */,
+			);
+			path = AddImages;
+			sourceTree = "<group>";
+		};
+		3A0E8E092197AC4800EC581B /* Settings_external */ = {
+			isa = PBXGroup;
+			children = (
+				3A0E8E0A2197AC7100EC581B /* Settings.bundle */,
+			);
+			path = Settings_external;
+			sourceTree = "<group>";
+		};
+		3A0E8E0E2199084800EC581B /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				3A0E8E0F219B981D00EC581B /* SettingsViewController.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		3A0E8E13219B9AF000EC581B /* Shop */ = {
+			isa = PBXGroup;
+			children = (
+				3A0E8E14219B9B2400EC581B /* ShopViewCustomTableCell.swift */,
+				3ABA8FD221A63BFC005D41F7 /* StackView.swift */,
+			);
+			path = Shop;
+			sourceTree = "<group>";
+		};
+		3A0E8E18219B9B2D00EC581B /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				3A0E8E19219B9B3D00EC581B /* VideoViewController.swift */,
+			);
+			path = Video;
+			sourceTree = "<group>";
+		};
 		3A35DC312176AD7000B5BE19 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +245,8 @@
 				3A35DC552176AD7200B5BE19 /* AdDrinksTests */,
 				3A35DC602176AD7200B5BE19 /* AdDrinksUITests */,
 				3A35DC3B2176AD7000B5BE19 /* Products */,
+				56A6246F677ACD0317BCE26C /* Pods */,
+				AECD7967A2C7CCCD164E5AA9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,14 +263,16 @@
 		3A35DC3C2176AD7000B5BE19 /* AdDrinks */ = {
 			isa = PBXGroup;
 			children = (
+				3A9C604621893D250099CBCE /* Supporting Files */,
+				3A9C604521893B3A0099CBCE /* Resources */,
+				3A9C604421893AD30099CBCE /* Storyboards */,
+				3A9C604221892D0E0099CBCE /* Controllers */,
+				3A9C604121892D090099CBCE /* Views */,
+				3A9C604021892B7C0099CBCE /* Models */,
+				3A9C603B21891CA80099CBCE /* images */,
 				3A35DC3D2176AD7000B5BE19 /* AppDelegate.swift */,
-				3A35DC3F2176AD7000B5BE19 /* RootViewController.swift */,
-				3A35DC412176AD7000B5BE19 /* DataViewController.swift */,
+				3A0E8E1D219BB34C00EC581B /* DataModel.xcdatamodeld */,
 				3A35DC432176AD7000B5BE19 /* ModelController.swift */,
-				3A35DC452176AD7000B5BE19 /* Main.storyboard */,
-				3A35DC482176AD7100B5BE19 /* Assets.xcassets */,
-				3A35DC4A2176AD7100B5BE19 /* LaunchScreen.storyboard */,
-				3A35DC4D2176AD7200B5BE19 /* Info.plist */,
 			);
 			path = AdDrinks;
 			sourceTree = "<group>";
@@ -131,6 +295,143 @@
 			path = AdDrinksUITests;
 			sourceTree = "<group>";
 		};
+		3A9C603B21891CA80099CBCE /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3A0E8DF42193C02B00EC581B /* AddImages */,
+				3A0E8DF02193B81A00EC581B /* LosgehtsButton.jpg */,
+				3AE67B232189EA4F0002D924 /* AppImages */,
+				3A9C60502189400E0099CBCE /* SignUpImages */,
+				3A9C603C21891CE70099CBCE /* AD_color_disney_fangzahn.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		3A9C604021892B7C0099CBCE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3A9C604121892D090099CBCE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3A9C604221892D0E0099CBCE /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3A0E8E18219B9B2D00EC581B /* Video */,
+				3A0E8E13219B9AF000EC581B /* Shop */,
+				3A0E8E0E2199084800EC581B /* Settings */,
+				3A0E8E092197AC4800EC581B /* Settings_external */,
+				3AA82491218C6D4C00A1BDC1 /* Root */,
+				3A9C604721893D9C0099CBCE /* SignUp */,
+				3A9C60432189310C0099CBCE /* Landing */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3A9C60432189310C0099CBCE /* Landing */ = {
+			isa = PBXGroup;
+			children = (
+				3A35DC3F2176AD7000B5BE19 /* LoginViewController.swift */,
+			);
+			path = Landing;
+			sourceTree = "<group>";
+		};
+		3A9C604421893AD30099CBCE /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				3A35DC452176AD7000B5BE19 /* Main.storyboard */,
+				3A35DC4A2176AD7100B5BE19 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		3A9C604521893B3A0099CBCE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3A35DC482176AD7100B5BE19 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		3A9C604621893D250099CBCE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3A01BD4E2176B4CB00C8F718 /* GoogleService-Info.plist */,
+				3A35DC4D2176AD7200B5BE19 /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3A9C604721893D9C0099CBCE /* SignUp */ = {
+			isa = PBXGroup;
+			children = (
+				3A9C604C21893E080099CBCE /* SignUpViewController.swift */,
+			);
+			path = SignUp;
+			sourceTree = "<group>";
+		};
+		3A9C60502189400E0099CBCE /* SignUpImages */ = {
+			isa = PBXGroup;
+			children = (
+				3A9C6051218940280099CBCE /* 01_Welcome1_popup1.jpg */,
+				3A9C6053218940290099CBCE /* 02_Welcome1_popup2.jpg */,
+				3A9C6052218940280099CBCE /* 03_Welcome2.jpg */,
+			);
+			path = SignUpImages;
+			sourceTree = "<group>";
+		};
+		3AA82491218C6D4C00A1BDC1 /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				3A35DC412176AD7000B5BE19 /* RootViewController.swift */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		3AE67B232189EA4F0002D924 /* AppImages */ = {
+			isa = PBXGroup;
+			children = (
+				3ABA3CA72189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg */,
+				3ABA3CA52189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg */,
+				3ABA3CA82189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg */,
+				3ABA3CA42189EC04009B2FBA /* AD_color_disney_fangzahn_80.jpg */,
+				3ABA3CA62189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg */,
+				3ABA3CA32189EC04009B2FBA /* AD_color_disney_fangzahn_120.jpg */,
+				3ABA3CA92189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg */,
+			);
+			path = AppImages;
+			sourceTree = "<group>";
+		};
+		56A6246F677ACD0317BCE26C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				859E65B5CEFDF2EDA38B85EB /* Pods-AdDrinks.debug.xcconfig */,
+				263445B491779A603C625F1F /* Pods-AdDrinks.release.xcconfig */,
+				AC9B0596E3229A1F6E2CD5DF /* Pods-AdDrinksTests.debug.xcconfig */,
+				CCD46F38E586CD9AE7889CC1 /* Pods-AdDrinksTests.release.xcconfig */,
+				64ACFB59C611037D37432D29 /* Pods-AdDrinksUITests.debug.xcconfig */,
+				2A12167E07B15EB8DD10E68F /* Pods-AdDrinksUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		AECD7967A2C7CCCD164E5AA9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3589B6035CC29468C2D2F4A9 /* Pods_AdDrinks.framework */,
+				5D0D6FFF8A2E5FC296C716D7 /* Pods_AdDrinksTests.framework */,
+				69B84846F19B3AAA98815F0E /* Pods_AdDrinksUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -138,9 +439,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3A35DC662176AD7200B5BE19 /* Build configuration list for PBXNativeTarget "AdDrinks" */;
 			buildPhases = (
+				DC778F92BB653006F48983DF /* [CP] Check Pods Manifest.lock */,
 				3A35DC362176AD7000B5BE19 /* Sources */,
 				3A35DC372176AD7000B5BE19 /* Frameworks */,
 				3A35DC382176AD7000B5BE19 /* Resources */,
+				602521018B1D72FC55ADD8A1 /* [CP] Embed Pods Frameworks */,
+				8FDF0A404CC8491339C9B47A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -155,6 +459,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3A35DC692176AD7200B5BE19 /* Build configuration list for PBXNativeTarget "AdDrinksTests" */;
 			buildPhases = (
+				7C4CB73C13E34B47756C264A /* [CP] Check Pods Manifest.lock */,
 				3A35DC4E2176AD7200B5BE19 /* Sources */,
 				3A35DC4F2176AD7200B5BE19 /* Frameworks */,
 				3A35DC502176AD7200B5BE19 /* Resources */,
@@ -173,6 +478,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3A35DC6C2176AD7200B5BE19 /* Build configuration list for PBXNativeTarget "AdDrinksUITests" */;
 			buildPhases = (
+				C3645A9D577784F033D24FC5 /* [CP] Check Pods Manifest.lock */,
 				3A35DC592176AD7200B5BE19 /* Sources */,
 				3A35DC5A2176AD7200B5BE19 /* Frameworks */,
 				3A35DC5B2176AD7200B5BE19 /* Resources */,
@@ -199,13 +505,16 @@
 				TargetAttributes = {
 					3A35DC392176AD7000B5BE19 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 					};
 					3A35DC512176AD7200B5BE19 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 						TestTargetID = 3A35DC392176AD7000B5BE19;
 					};
 					3A35DC5C2176AD7200B5BE19 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 						TestTargetID = 3A35DC392176AD7000B5BE19;
 					};
 				};
@@ -235,9 +544,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A0E8E002193C04800EC581B /* Fortnite.jpg in Resources */,
+				3A9C605A218940290099CBCE /* 02_Welcome1_popup2.jpg in Resources */,
 				3A35DC4C2176AD7100B5BE19 /* LaunchScreen.storyboard in Resources */,
+				3ABA3CB62189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg in Resources */,
+				3A01BD4F2176B4CB00C8F718 /* GoogleService-Info.plist in Resources */,
+				3A0E8E032193C04800EC581B /* mercedes.jpeg in Resources */,
+				3A9C6054218940290099CBCE /* 01_Welcome1_popup1.jpg in Resources */,
+				3ABA3CB02189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg in Resources */,
+				3A0E8DF12193B81B00EC581B /* LosgehtsButton.jpg in Resources */,
+				3ABA3CAA2189EC05009B2FBA /* AD_color_disney_fangzahn_120.jpg in Resources */,
+				3ABA3CBC2189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg in Resources */,
+				3ABA3CB32189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg in Resources */,
+				3ABA3CAD2189EC05009B2FBA /* AD_color_disney_fangzahn_80.jpg in Resources */,
+				3A9C603D21891CE70099CBCE /* AD_color_disney_fangzahn.jpg in Resources */,
+				3A0E8DFA2193C04800EC581B /* the-avengers.jpg in Resources */,
 				3A35DC492176AD7100B5BE19 /* Assets.xcassets in Resources */,
+				3A9C6057218940290099CBCE /* 03_Welcome2.jpg in Resources */,
+				3A0E8E062193C04800EC581B /* playersunknownsbattleground.jpg in Resources */,
+				3A0E8DFD2193C04800EC581B /* innogy.png in Resources */,
 				3A35DC472176AD7000B5BE19 /* Main.storyboard in Resources */,
+				3A0E8E0B2197AC7100EC581B /* Settings.bundle in Resources */,
+				3ABA3CB92189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +573,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3ABA3CB42189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg in Resources */,
+				3A0E8E0C2197AC7100EC581B /* Settings.bundle in Resources */,
+				3A9C605B218940290099CBCE /* 02_Welcome1_popup2.jpg in Resources */,
+				3A01BD502176B4CB00C8F718 /* GoogleService-Info.plist in Resources */,
+				3A9C603E21891CE70099CBCE /* AD_color_disney_fangzahn.jpg in Resources */,
+				3A0E8DFB2193C04800EC581B /* the-avengers.jpg in Resources */,
+				3A9C6058218940290099CBCE /* 03_Welcome2.jpg in Resources */,
+				3A0E8E042193C04800EC581B /* mercedes.jpeg in Resources */,
+				3A0E8E012193C04800EC581B /* Fortnite.jpg in Resources */,
+				3A0E8DF22193B81B00EC581B /* LosgehtsButton.jpg in Resources */,
+				3ABA3CB72189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg in Resources */,
+				3ABA3CB12189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg in Resources */,
+				3A0E8DFE2193C04800EC581B /* innogy.png in Resources */,
+				3ABA3CAB2189EC05009B2FBA /* AD_color_disney_fangzahn_120.jpg in Resources */,
+				3A9C6055218940290099CBCE /* 01_Welcome1_popup1.jpg in Resources */,
+				3A0E8E072193C04800EC581B /* playersunknownsbattleground.jpg in Resources */,
+				3ABA3CBA2189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg in Resources */,
+				3ABA3CBD2189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg in Resources */,
+				3ABA3CAE2189EC05009B2FBA /* AD_color_disney_fangzahn_80.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,20 +599,188 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3ABA3CB52189EC05009B2FBA /* AD_color_disney_fangzahn_87.jpg in Resources */,
+				3A0E8E0D2197AC7100EC581B /* Settings.bundle in Resources */,
+				3A9C605C218940290099CBCE /* 02_Welcome1_popup2.jpg in Resources */,
+				3A01BD512176B4CB00C8F718 /* GoogleService-Info.plist in Resources */,
+				3A9C603F21891CE70099CBCE /* AD_color_disney_fangzahn.jpg in Resources */,
+				3A0E8DFC2193C04800EC581B /* the-avengers.jpg in Resources */,
+				3A9C6059218940290099CBCE /* 03_Welcome2.jpg in Resources */,
+				3A0E8E052193C04800EC581B /* mercedes.jpeg in Resources */,
+				3A0E8E022193C04800EC581B /* Fortnite.jpg in Resources */,
+				3A0E8DF32193B81B00EC581B /* LosgehtsButton.jpg in Resources */,
+				3ABA3CB82189EC05009B2FBA /* AD_color_disney_fangzahn_40.jpg in Resources */,
+				3ABA3CB22189EC05009B2FBA /* AD_color_disney_fangzahn_58.jpg in Resources */,
+				3A0E8DFF2193C04800EC581B /* innogy.png in Resources */,
+				3ABA3CAC2189EC05009B2FBA /* AD_color_disney_fangzahn_120.jpg in Resources */,
+				3A9C6056218940290099CBCE /* 01_Welcome1_popup1.jpg in Resources */,
+				3A0E8E082193C04800EC581B /* playersunknownsbattleground.jpg in Resources */,
+				3ABA3CBB2189EC05009B2FBA /* AD_color_disney_fangzahn_60.jpg in Resources */,
+				3ABA3CBE2189EC05009B2FBA /* AD_color_disney_fangzahn_180.jpg in Resources */,
+				3ABA3CAF2189EC05009B2FBA /* AD_color_disney_fangzahn_80.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		602521018B1D72FC55ADD8A1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-AdDrinks/Pods-AdDrinks-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/BoringSSL/openssl.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMOAuth2/GTMOAuth2.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
+				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC/GRPCClient.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-C++/grpcpp.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-Core/grpc.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-ProtoRPC/ProtoRPC.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-RxLibrary/RxLibrary.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/openssl.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMOAuth2.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Protobuf.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GRPCClient.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/grpcpp.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/grpc.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ProtoRPC.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxLibrary.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AdDrinks/Pods-AdDrinks-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7C4CB73C13E34B47756C264A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AdDrinksTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8FDF0A404CC8491339C9B47A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-AdDrinks/Pods-AdDrinks-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseAnonymousAuthUI.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseAuthUI.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseFacebookAuthUI.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseGoogleAuthUI.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebasePhoneAuthUI.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseTwitterAuthUI.bundle",
+				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
+				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseAnonymousAuthUI.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseAuthUI.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseFacebookAuthUI.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseGoogleAuthUI.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebasePhoneAuthUI.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseTwitterAuthUI.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleSignIn.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AdDrinks/Pods-AdDrinks-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C3645A9D577784F033D24FC5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AdDrinksUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DC778F92BB653006F48983DF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AdDrinks-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3A35DC362176AD7000B5BE19 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A35DC402176AD7000B5BE19 /* RootViewController.swift in Sources */,
+				3A0E8E10219B981D00EC581B /* SettingsViewController.swift in Sources */,
+				3A35DC402176AD7000B5BE19 /* LoginViewController.swift in Sources */,
+				3A0E8E1A219B9B3D00EC581B /* VideoViewController.swift in Sources */,
+				3A9C604D21893E080099CBCE /* SignUpViewController.swift in Sources */,
 				3A35DC442176AD7000B5BE19 /* ModelController.swift in Sources */,
-				3A35DC422176AD7000B5BE19 /* DataViewController.swift in Sources */,
+				3A35DC422176AD7000B5BE19 /* RootViewController.swift in Sources */,
+				3A0E8E1F219BB34C00EC581B /* DataModel.xcdatamodeld in Sources */,
+				3A0E8E15219B9B2400EC581B /* ShopViewCustomTableCell.swift in Sources */,
 				3A35DC3E2176AD7000B5BE19 /* AppDelegate.swift in Sources */,
+				3ABA8FD321A63BFC005D41F7 /* StackView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +788,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A0E8E16219B9B2400EC581B /* ShopViewCustomTableCell.swift in Sources */,
+				3ABA8FD421A63BFC005D41F7 /* StackView.swift in Sources */,
+				3A0E8E11219B981D00EC581B /* SettingsViewController.swift in Sources */,
+				3A9C604E21893E080099CBCE /* SignUpViewController.swift in Sources */,
+				3A0E8E20219BB34C00EC581B /* DataModel.xcdatamodeld in Sources */,
+				3A0E8E1B219B9B3D00EC581B /* VideoViewController.swift in Sources */,
 				3A35DC572176AD7200B5BE19 /* AdDrinksTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -281,6 +802,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A0E8E17219B9B2400EC581B /* ShopViewCustomTableCell.swift in Sources */,
+				3ABA8FD521A63BFC005D41F7 /* StackView.swift in Sources */,
+				3A0E8E12219B981D00EC581B /* SettingsViewController.swift in Sources */,
+				3A9C604F21893E080099CBCE /* SignUpViewController.swift in Sources */,
+				3A0E8E21219BB34C00EC581B /* DataModel.xcdatamodeld in Sources */,
+				3A0E8E1C219B9B3D00EC581B /* VideoViewController.swift in Sources */,
 				3A35DC622176AD7200B5BE19 /* AdDrinksUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -436,42 +963,46 @@
 		};
 		3A35DC672176AD7200B5BE19 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 859E65B5CEFDF2EDA38B85EB /* Pods-AdDrinks.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3728NLQX37;
-				INFOPLIST_FILE = AdDrinks/Info.plist;
+				INFOPLIST_FILE = "AdDrinks/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = de.addrinks.AdDrinks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		3A35DC682176AD7200B5BE19 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 263445B491779A603C625F1F /* Pods-AdDrinks.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3728NLQX37;
-				INFOPLIST_FILE = AdDrinks/Info.plist;
+				INFOPLIST_FILE = "AdDrinks/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = de.addrinks.AdDrinks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 		3A35DC6A2176AD7200B5BE19 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AC9B0596E3229A1F6E2CD5DF /* Pods-AdDrinksTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -485,7 +1016,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = de.addrinks.AdDrinksTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AdDrinks.app/AdDrinks";
 			};
@@ -493,6 +1024,7 @@
 		};
 		3A35DC6B2176AD7200B5BE19 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCD46F38E586CD9AE7889CC1 /* Pods-AdDrinksTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -506,7 +1038,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = de.addrinks.AdDrinksTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AdDrinks.app/AdDrinks";
 			};
@@ -514,6 +1046,7 @@
 		};
 		3A35DC6D2176AD7200B5BE19 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 64ACFB59C611037D37432D29 /* Pods-AdDrinksUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -526,7 +1059,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = de.addrinks.AdDrinksUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = AdDrinks;
 			};
@@ -534,6 +1067,7 @@
 		};
 		3A35DC6E2176AD7200B5BE19 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2A12167E07B15EB8DD10E68F /* Pods-AdDrinksUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -546,7 +1080,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = de.addrinks.AdDrinksUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = AdDrinks;
 			};
@@ -592,6 +1126,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		3A0E8E1D219BB34C00EC581B /* DataModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3A0E8E1E219BB34C00EC581B /* DataModel.xcdatamodel */,
+			);
+			currentVersion = 3A0E8E1E219BB34C00EC581B /* DataModel.xcdatamodel */;
+			path = DataModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 3A35DC322176AD7000B5BE19 /* Project object */;
 }
